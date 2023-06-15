@@ -52,7 +52,7 @@ https://discord.gg/3GFKFPaxK3
 	["milkshake-chocolate"] = {["name"] = "milkshake-chocolate",   ["label"] = "Chocolate Milkshake", 	  ["weight"] = 1000, 	["type"] = "item", 	 ["image"] = "mschocolate.png", ["unique"] = false, 	["useable"] = true,   ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
 ```
 
-# Drag and drop images from mt-UwUCafe/images to qb-inventory/html/images.
+# Drag and drop images from nvt-UwUCafe/images to qb-inventory/html/images.
 
 # Add to qb-core/shared/jobs.lua
 ```
@@ -100,6 +100,6 @@ https://discord.gg/3GFKFPaxK3
   - qb-phone - https://github.com/qbcore-framework/qb-phone (for billing recive) 
   
   # Link to buy the map 
-  https://fivem.gabzv.com/package/4724734
+  https://discord.gg/3GFKFPaxK3
 
   
