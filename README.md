@@ -1,4 +1,4 @@
-# mt-UwUCafe
+# nvt-UwUCafe
 UwU Cafe job for Gabz UwU Cat Cafe map for QBCore
 
 # Translate to english by [MT]Michel
