@@ -3,12 +3,13 @@ UwU Cafe job for Gabz UwU Cat Cafe map for QBCore
 
 # Translate to english by [MT]Michel
 
-# Preview
-https://youtu.be/xruCsYASgBQ
+# Discord
+https://discord.gg/3GFKFPaxK3
+
 
 # Add to qb-core/shared/items.lua
 ```
-	-- MT (UwuCafe Stuff)
+	-- NVT (UwuCafe Stuff)
 
 	-- Ingredients
 	["pacote-leite"] 	   = {["name"] = "pacote-leite", 		["label"] = "Milk Pack",            ["weight"] = 1500, 	 ["type"] = "item",   	["image"] = "leite.png", 	    ["unique"] = false, 	["useable"] = true,   ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
