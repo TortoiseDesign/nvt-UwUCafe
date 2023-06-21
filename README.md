@@ -4,7 +4,7 @@ UwU Cafe job for Gabz UwU Cat Cafe map for QBCore
 # Translate to english by [MT]Michel
 
 # Discord
-https://discord.gg/3GFKFPaxK3
+https://discord.gg/ezGs7RY6bt
 
 
 # Add to qb-core/shared/items.lua
